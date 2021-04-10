@@ -1,6 +1,5 @@
 # Fashion Mnist solution
 
-# Fashion Mnist solution
 
 
 ## About FashionMNIST
